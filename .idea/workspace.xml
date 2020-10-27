@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9355a276-8eba-4d9e-98c3-039dd0807fbf" name="Default Changelist" comment="JavaFX interface v0.1">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Marmur.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HuffmanCompression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HuffmanCompression.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img.jpg.coding" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img.jpg.dehuff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img.jpg.huff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/muza.mp3.coding" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/muza.mp3.dehuff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/muza.mp3.huff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HuffmanCompression/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HuffmanCompression/com/company/Node$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HuffmanCompression/com/company/Node$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HuffmanCompression/com/company/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HuffmanCompression/com/company/ReplacementNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ReplacementNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testfile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testfile.txt.coding" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testfile.txt.dehuff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testfile.txt.huff" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,8 +109,16 @@
       <workItem from="1590436671904" duration="4405000" />
       <workItem from="1594692028023" duration="14000" />
       <workItem from="1603822343530" duration="1729000" />
-      <workItem from="1603824116617" duration="7049000" />
+      <workItem from="1603824116617" duration="7313000" />
     </task>
+    <task id="LOCAL-00001" summary="JavaFX interface v0.1">
+      <created>1603831190749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603831190749</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,10 +145,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="811" y="411" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603824221947" />
-    <state x="558" y="117" key="CommitChangelistDialog2" timestamp="1603831161590">
+    <state x="558" y="117" key="CommitChangelistDialog2" timestamp="1603831457097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603831161590" />
+    <state x="558" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603831457097" />
+    <state x="184" y="85" key="DiffContextDialog" timestamp="1603831333455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603831333455" />
     <state x="689" y="318" key="FileChooserDialogImpl" timestamp="1603824029626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -185,10 +173,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603831161619" />
-    <state x="463" y="151" key="SettingsEditor" timestamp="1603824216616">
+    <state x="463" y="151" key="SettingsEditor" timestamp="1603831214156">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="463" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603824216616" />
+    <state x="463" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603831214156" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1603831337311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603831337311" />
     <state x="771" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603831180476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9355a276-8eba-4d9e-98c3-039dd0807fbf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cK5wp0xwV7RqBVqX3EaD7Xiezp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="HuffmanCompression" />
+      <option name="PROGRAM_PARAMETERS" value="decode testfile.txt img.jpg chuj.hehe muza.mp3" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9355a276-8eba-4d9e-98c3-039dd0807fbf" name="Default Changelist" comment="" />
+      <created>1590264685940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590264685940</updated>
+      <workItem from="1590264693742" duration="22038000" />
+      <workItem from="1590286831632" duration="1424000" />
+      <workItem from="1590371198315" duration="1302000" />
+      <workItem from="1590436671904" duration="4405000" />
+      <workItem from="1594692028023" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590438757739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590438757739" />
+    <state x="429" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590287399893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="429" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1590287399893" />
+    <state x="387" y="39" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1590275390408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="39" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590275390408" />
+    <state x="413" y="113" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1590279950106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590279950106" />
+    <state width="1322" height="159" key="GridCell.Tab.0.bottom" timestamp="1590479934792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="159" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590479934792" />
+    <state width="1322" height="159" key="GridCell.Tab.0.center" timestamp="1590479934792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="159" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590479934792" />
+    <state width="1322" height="159" key="GridCell.Tab.0.left" timestamp="1590479934792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="159" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590479934792" />
+    <state width="1322" height="159" key="GridCell.Tab.0.right" timestamp="1590479934792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="159" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590479934792" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1594692028300">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594692028300" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590436924959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590436924959" />
+  </component>
+</project>
